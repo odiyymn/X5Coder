@@ -1,1 +1,1 @@
-lay-server-developments-ross.trycloudflare.com
+thomas-pages-lambda-standings.trycloudflare.com
