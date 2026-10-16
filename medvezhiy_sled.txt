@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-treating-stan-incl-gold.trycloudflare.com
-=======
-platforms-organization-evidence-winners.trycloudflare.com
->>>>>>> Stashed changes
+belkin-evidence-affiliates-bachelor.trycloudflare.com
