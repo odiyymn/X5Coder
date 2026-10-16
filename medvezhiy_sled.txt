@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-voters-endorsement-warrant-trials.trycloudflare.com
-=======
-gamecube-select-explosion-compliance.trycloudflare.com
->>>>>>> Stashed changes
+sandy-massive-competitive-baseline.trycloudflare.com
