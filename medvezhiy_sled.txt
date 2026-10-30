@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-going-exit-tale-ceremony.trycloudflare.com
-=======
-studio-theorem-hawk-ink.trycloudflare.com
->>>>>>> Stashed changes
+cure-blah-possible-gis.trycloudflare.com
